@@ -2,6 +2,8 @@
 
 Eine einfache Python-App zur Messung der Reaktionszeit mit grafischer Oberfläche. Nach dem Start wartet das Programm eine zufällige Zeitspanne, färbt das Klickfeld grün und misst die Zeit bis zum Klick in Millisekunden.
 
+Geschrieben mit ChatGPT 5.5 Thinking
+
 ## Funktionen
 
 - Messung der Reaktionszeit in ms
